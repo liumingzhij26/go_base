@@ -111,7 +111,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello")
+    fmt.Println("Hello")
 }
 ```
 
@@ -130,7 +130,7 @@ Hello
 
 ```
 go install
-cd ~/lmz/go/bin
+cd ~/go/bin
 go_base
 
 ```
